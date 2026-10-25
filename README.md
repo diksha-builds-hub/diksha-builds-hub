@@ -1,4 +1,4 @@
-
+# Hi there, I'm Diksha! 👋
 
 🎓 **SYBScIT Student | Aspiring AI/ML Engineer**
 
