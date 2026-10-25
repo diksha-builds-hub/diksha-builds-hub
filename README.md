@@ -6,7 +6,7 @@ Welcome to my GitHub profile! I'm passionate about programming, Artificial Intel
 
 ## 👩‍💻 About Me
 
-* 🎓 🎓 SYBScIT Student | Mumbai University Curriculum
+* 🎓 SYBScIT Student | Mumbai University Curriculum
 * 🐍 Learning Python programming
 * 🤖 Exploring Artificial Intelligence and Machine Learning
 * 🌐 Recently completed a bridge course in Flask and Jinja2
